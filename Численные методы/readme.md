@@ -45,5 +45,6 @@ https://docs.google.com/spreadsheets/d/1RAsL25Ogm47xVAyBHelRhxSQygYD2V3zk8YE69PM
 оценка 3 - если есть и можете объяснить программу
 оценка 4 - к программе добавляется эксель
 оценка 5 - к программе добавляется теория
-   
+
+  Зачет - https://docs.google.com/document/d/1UhTF02FF8AgxywLPg6eJxv-rSKFZIM8jjK20J2aTETY/edit?usp=sharing
    
