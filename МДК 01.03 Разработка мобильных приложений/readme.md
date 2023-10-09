@@ -1,5 +1,7 @@
 у меня айфон
 
+Прототип - https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design
+
 Приложение состоит из двух частей: Frontend и Backend
 
 Frontend:
@@ -15,3 +17,4 @@ Backend:
 4) язык программирования Java или Kotlin
    Цель: сделать переходы между двумя страницами
    
+![273644970-46e85780-77cd-42ba-8d1f-5a10b0fea10e](https://github.com/son4ez1/semester5/assets/113089517/141d3017-7d25-49fb-ad30-f3ba72f36c16)
