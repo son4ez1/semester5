@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\bin\Debug\Малиновская.exe.config
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\bin\Debug\Малиновская.exe
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\bin\Debug\Малиновская.pdb
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская.g.resources
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская.exe
+C:\Users\Администратор\source\repos\Малиновская\Малиновская\obj\Debug\Малиновская.pdb
