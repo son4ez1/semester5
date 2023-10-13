@@ -2,6 +2,8 @@ http://kkkkss.tilda.ws - сайт
 
 конспект - https://docs.google.com/document/d/1GIBG-G6RmWr0YyFdfkTrAFrUdocGbT77tqLyhtzLeN0/edit?usp=sharing
 
+[Прототип фигма](https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design&t=26LJH2tPnBzM6vuU-0)
+
 Приложение состоит из двух частей: Frontend и Backend
 
 Frontend:
