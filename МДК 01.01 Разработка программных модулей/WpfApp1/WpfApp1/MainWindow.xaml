@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="450" MinWidth="800">
+
+    <Grid ShowGridLines="True">
+        <Grid.Background>
+            <ImageBrush ImageSource="Headline.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="2" Background="#FFE0AE4C" >  
+            <TextBlock  Foreground="White" TextAlignment="Center" >Это пример</TextBlock>
+            <TextBlock  Foreground="White" TextAlignment="Center"  >Это пример</TextBlock>
+        </StackPanel>
+        
+        <Image Grid.Column="0" Grid.Row="1" Source="/resourse/png-transparent-hamburger-veggie-burger-cheeseburger-chicken-sandwich-burger-and-sandwich-miscellaneous-food-beef 1.png" />
+        <Image Grid.Column="0" Grid.Row="2" Source="/resourse/png-transparent-fizzy-drinks-cola-pizza-restaurant-drink-food-fast-food-restaurant-cola 2.png" />
+
+
+
+    </Grid>
+</Window>
