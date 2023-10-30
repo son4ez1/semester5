@@ -26,7 +26,7 @@ Backend:
 3) работа с API
 4) язык программирования Java или Kotlin
    Цель: сделать переходы между двумя страницами
-   
+---
 ![image](https://github.com/son4ez1/semester5/assets/113089517/3e29f835-2fb4-410e-90ad-ea12713d9d05)
 ![image](https://github.com/son4ez1/semester5/assets/113089517/16ee4965-a47c-428b-a0bd-09eb4bb7a53f)
 
