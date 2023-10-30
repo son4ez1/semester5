@@ -21,3 +21,4 @@ Backend:
 4) язык программирования Java или Kotlin
    Цель: сделать переходы между двумя страницами
    
+![image](https://github.com/son4ez1/semester5/assets/113089517/3e29f835-2fb4-410e-90ad-ea12713d9d05)
