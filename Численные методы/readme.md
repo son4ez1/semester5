@@ -9,8 +9,9 @@ Exel\Python Matplotlib
 https://docs.google.com/spreadsheets/d/1RAsL25Ogm47xVAyBHelRhxSQygYD2V3zk8YE69PMKkQ/edit?usp=sharing
 
 реплит - https://replit.com/@son4ez1
-
+---
 Задание: решить СЛАУ
+--
 1.1. посчитать в экселе
 1.2. посчитать в реплите
 1.3. матлоблиб построить график 
@@ -23,6 +24,7 @@ https://docs.google.com/spreadsheets/d/1RAsL25Ogm47xVAyBHelRhxSQygYD2V3zk8YE69PM
 Цель: совпадение значений во всех 3х случаях
 
 Зачет по Численным методам:
+--
 сделать отчет следующей структуры
 1. титульный лист(можно взять из курсовой тема: численные методы и фамилия)
 2. содержание ( включает в себя рассмотренные темы)
@@ -37,6 +39,7 @@ https://docs.google.com/spreadsheets/d/1RAsL25Ogm47xVAyBHelRhxSQygYD2V3zk8YE69PM
    4.4.ссылка на используемые графики в матлоблиб
 
 Защита каждого раздела:
+--
 3 вопроса по каждому разделу
 - 1 вопрос по теории
 - 2 вопрос по экселю
@@ -46,5 +49,6 @@ https://docs.google.com/spreadsheets/d/1RAsL25Ogm47xVAyBHelRhxSQygYD2V3zk8YE69PM
 оценка 4 - к программе добавляется эксель
 оценка 5 - к программе добавляется теория
 
+---
   Зачет - https://docs.google.com/document/d/1UhTF02FF8AgxywLPg6eJxv-rSKFZIM8jjK20J2aTETY/edit?usp=sharing
    
