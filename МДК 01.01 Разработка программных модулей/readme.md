@@ -6,15 +6,21 @@ http://kkkkss.tilda.ws - сайт
 
 [прототип пк](https://www.figma.com/file/siHE36GSOmbPZWUaYfOcQs/MODERN-PAGE-TRANSITIONS-by-MAKETHECUT.STUDIO-(Community)?type=design&mode=design&t=26LJH2tPnBzM6vuU-0)
 
+---
+
 Приложение состоит из двух частей: Frontend и Backend
+--
+
 
 Frontend:
+--
 1) кол-во страниц
 2) элементы интерфейса: текстовые блоки, медиа элементы(картинки, видео), кнопки ( выпадающий список, радиальный список и тд)
 3) для компановки элементов используются шаблоны (таблица Grid) название приложения -> App -> Res -> Layout -> ActivitiMain.xmal -> в меню выбираем Split
    Цель: макет из фигмы перенести в андроид студио 
 
 Backend: 
+--
 1) переключение между страницами
 2) анимация (проигрывание видео)
 3) работа с API
